@@ -1,3 +1,13 @@
+> You can also see
+> - [awesome-nodejs](https://github.com/huaize2020/awesome-nodejs)
+>   - [awesome-koa](https://github.com/huaize2020/awesome-koa)
+>   - [awesome-egg](https://github.com/huaize2020/awesome-egg)
+> - [awesome-frontend](https://github.com/huaize2020/awesome-frontend)
+>   - [awesome-react](https://github.com/huaize2020/awesome-react)
+>   - [awesome-react-native](https://github.com/huaize2020/awesome-react-native)
+>   - [awesome-electron](https://github.com/electron-modules/awesome-electron)
+> - [awesome-rust](https://github.com/huaize2020/awesome-rust)
+
 English | [简体中文](./README.md)
 
 ## Table of contents
@@ -8,6 +18,7 @@ English | [简体中文](./README.md)
   - [Tools](#tools)
   - [Tutorials](#tutorials)
 - [Repository](#repository)
+  - [HTTP](#http)
 
 ## Official
 
@@ -22,3 +33,9 @@ English | [简体中文](./README.md)
 ### Tutorials
 
 ## Repository
+
+### HTTP
+
+- Request Client
+  - [reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client. ![](https://img.shields.io/github/stars/seanmonstar/reqwest.svg?style=social&label=Star)
+
