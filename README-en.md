@@ -18,10 +18,13 @@ English | [简体中文](./README.md)
   - [Tools](#tools)
   - [Tutorials](#tutorials)
 - [Repository](#repository)
+  - [Image](#image)
   - [Command-line Utilities](#command-line-utilities)
   - [HTTP](#http)
   - [Web Frameworks](#web-frameworks)
   - [Static Site Generator \& Blogging](#static-site-generator--blogging)
+  - [Error Handling](#error-handling)
+  - [Cache](#cache)
 
 ## Official
 
@@ -33,9 +36,17 @@ English | [简体中文](./README.md)
 
 ### Tools
 
+- [Crates](https://crates.io/) - crates.io: Rust Package Registry.
+
 ### Tutorials
 
 ## Repository
+
+### Image
+
+- [image](https://github.com/image-rs/image) - Provides basic image processing functions and methods for converting to and from various image formats. ![](https://img.shields.io/github/stars/image-rs/image.svg?style=social&label=Star)
+- [photon](https://github.com/silvia-odwyer/photon) - ⚡ Rust/WebAssembly image processing library. ![](https://img.shields.io/github/stars/silvia-odwyer/photon.svg?style=social&label=Star)
+
 
 ### Command-line Utilities
 
@@ -48,12 +59,26 @@ English | [简体中文](./README.md)
 - Request Client
   - [reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client. ![](https://img.shields.io/github/stars/seanmonstar/reqwest.svg?style=social&label=Star)
 
+
 ### Web Frameworks
 
 *(You might like [rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison))*
 
 - [yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps. ![](https://img.shields.io/github/stars/yewstack/yew.svg?style=social&label=Star)
+- [axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper. ![](https://img.shields.io/github/stars/yewstack/yew.svg?style=social&label=Star)
+
 
 ### Static Site Generator & Blogging
 
 - [rspress](https://github.com/web-infra-dev/rspress) - 🦀💨 A fast Rspack-based static site generator. ![](https://img.shields.io/github/stars/web-infra-dev/rspress.svg?style=social&label=Star)
+
+
+### Error Handling
+
+- [anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error. ![](https://img.shields.io/github/stars/dtolnay/anyhow.svg?style=social&label=Star)
+
+
+### Cache
+
+- [lru-rs](https://github.com/jeromefroe/lru-rs) - An implementation of a LRU cache. ![](https://img.shields.io/github/stars/jeromefroe/lru-rs.svg?style=social&label=Star)
+
