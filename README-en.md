@@ -18,6 +18,8 @@ English | [简体中文](./README.md)
   - [Tools](#tools)
   - [Tutorials](#tutorials)
 - [Repository](#repository)
+  - [Data structure](#data-structure)
+  - [Macro](#macro)
   - [Image](#image)
   - [Command-line Utilities](#command-line-utilities)
   - [HTTP](#http)
@@ -41,6 +43,18 @@ English | [简体中文](./README.md)
 ### Tutorials
 
 ## Repository
+
+### Data structure
+
+- [rustc-hash](https://github.com/rust-lang/rustc-hash) - Custom hash algorithm used by rustc (plus hashmap/set aliases): fast, deterministic, not secure。 ![](https://img.shields.io/github/stars/rust-lang/rustc-hash.svg?style=social&label=Star)
+
+
+### Macro
+
+- [lazy_static](https://github.com/rust-lang-nursery/lazy-static.rs) - A small macro for defining lazy evaluated static variables in Rust. ![](https://img.shields.io/github/stars/rust-lang-nursery/lazy-static.rs.svg?style=social&label=Star)
+- [Cute](https://github.com/mattgathu/cute) - Macro for Python-esque list comprehensions in Rust. ![](https://img.shields.io/github/stars/mattgathu/cute.svg?style=social&label=Star)
+- [Linq](https://github.com/StardustDL/Linq-in-Rust) - Language Integrated Query in Rust. ![](https://img.shields.io/github/stars/StardustDL/Linq-in-Rust.svg?style=social&label=Star)
+
 
 ### Image
 
