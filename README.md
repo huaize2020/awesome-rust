@@ -21,6 +21,8 @@
   - [工具](#工具)
   - [教程](#教程)
 - [仓库](#仓库)
+  - [数据结构](#数据结构)
+  - [宏](#宏)
   - [图像处理](#图像处理)
   - [命令行工具](#命令行工具)
   - [HTTP](#http)
@@ -44,6 +46,18 @@
 ### 教程
 
 ## 仓库
+
+### 数据结构
+
+- [rustc-hash](https://github.com/rust-lang/rustc-hash) - 快速、确定性输出、线程不安全的哈希算法。 ![](https://img.shields.io/github/stars/rust-lang/rustc-hash.svg?style=social&label=Star)
+
+
+### 宏
+
+- [lazy_static](https://github.com/rust-lang-nursery/lazy-static.rs) - 一个精小的宏，用于在 Rust 中定义延迟计算的静态变量。 ![](https://img.shields.io/github/stars/rust-lang-nursery/lazy-static.rs.svg?style=social&label=Star)
+- [Cute](https://github.com/mattgathu/cute) - Rust 中用于 Python 式列表推导式的宏。 ![](https://img.shields.io/github/stars/mattgathu/cute.svg?style=social&label=Star)
+- [Linq](https://github.com/StardustDL/Linq-in-Rust) - Rust 中的 LINQ (语言集成查询) 实现。 ![](https://img.shields.io/github/stars/StardustDL/Linq-in-Rust.svg?style=social&label=Star)
+
 
 ### 图像处理
 
